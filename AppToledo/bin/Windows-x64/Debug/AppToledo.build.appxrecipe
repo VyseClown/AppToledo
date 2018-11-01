@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BLN7UN4</Machine>
+    <WindowsUser>knoonrx</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>ca029030-dcbf-11e8-9042-77b21cf11463</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\build\windows\debug\x64\win10\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\images\cordova.png">
+      <PackagePath>www\images\cordova.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\img\ipt.png">
+      <PackagePath>www\img\ipt.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-hdpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-hdpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-ldpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-ldpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-mdpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-mdpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-xhdpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-xhdpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-xxhdpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-xxhdpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\android\drawable-xxxhdpi-icon.png">
+      <PackagePath>www\res\icon\android\drawable-xxxhdpi-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-40.png">
+      <PackagePath>www\res\icon\ios\icon-40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-40%402x.png">
+      <PackagePath>www\res\icon\ios\icon-40%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-50.png">
+      <PackagePath>www\res\icon\ios\icon-50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-50%402x.png">
+      <PackagePath>www\res\icon\ios\icon-50%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-60.png">
+      <PackagePath>www\res\icon\ios\icon-60.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-60%402x.png">
+      <PackagePath>www\res\icon\ios\icon-60%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-60%403x.png">
+      <PackagePath>www\res\icon\ios\icon-60%403x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-72.png">
+      <PackagePath>www\res\icon\ios\icon-72.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-72%402x.png">
+      <PackagePath>www\res\icon\ios\icon-72%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-76.png">
+      <PackagePath>www\res\icon\ios\icon-76.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-76%402x.png">
+      <PackagePath>www\res\icon\ios\icon-76%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-small.png">
+      <PackagePath>www\res\icon\ios\icon-small.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-small%402x.png">
+      <PackagePath>www\res\icon\ios\icon-small%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon-small%403x.png">
+      <PackagePath>www\res\icon\ios\icon-small%403x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon.png">
+      <PackagePath>www\res\icon\ios\icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\ios\icon%402x.png">
+      <PackagePath>www\res\icon\ios\icon%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square150x150Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square150x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square150x150Logo.scale-240.png">
+      <PackagePath>www\res\icon\windows\Square150x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square30x30Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square310x310Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square44x44Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square44x44Logo.scale-240.png">
+      <PackagePath>www\res\icon\windows\Square44x44Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square70x70Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square71x71Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Square71x71Logo.scale-240.png">
+      <PackagePath>www\res\icon\windows\Square71x71Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\StoreLogo.scale-100.png">
+      <PackagePath>www\res\icon\windows\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\StoreLogo.scale-240.png">
+      <PackagePath>www\res\icon\windows\StoreLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Wide310x150Logo.scale-100.png">
+      <PackagePath>www\res\icon\windows\Wide310x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\windows\Wide310x150Logo.scale-240.png">
+      <PackagePath>www\res\icon\windows\Wide310x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\wp8\ApplicationIcon.png">
+      <PackagePath>www\res\icon\wp8\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\icon\wp8\Background.png">
+      <PackagePath>www\res\icon\wp8\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-hdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-hdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-ldpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-ldpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-mdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-mdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-xhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-xhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-xxhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-xxhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-land-xxxhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-land-xxxhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-hdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-hdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-ldpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-ldpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-mdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-mdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-xhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-xhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-xxhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-xxhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\android\drawable-port-xxxhdpi-screen.png">
+      <PackagePath>www\res\screen\android\drawable-port-xxxhdpi-screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-568h%402x~iphone.png">
+      <PackagePath>www\res\screen\ios\Default-568h%402x~iphone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-667h.png">
+      <PackagePath>www\res\screen\ios\Default-667h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-736h.png">
+      <PackagePath>www\res\screen\ios\Default-736h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-Landscape-736h.png">
+      <PackagePath>www\res\screen\ios\Default-Landscape-736h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-Landscape%402x~ipad.png">
+      <PackagePath>www\res\screen\ios\Default-Landscape%402x~ipad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-Landscape~ipad.png">
+      <PackagePath>www\res\screen\ios\Default-Landscape~ipad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-Portrait%402x~ipad.png">
+      <PackagePath>www\res\screen\ios\Default-Portrait%402x~ipad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default-Portrait~ipad.png">
+      <PackagePath>www\res\screen\ios\Default-Portrait~ipad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default%402x~iphone.png">
+      <PackagePath>www\res\screen\ios\Default%402x~iphone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\ios\Default~iphone.png">
+      <PackagePath>www\res\screen\ios\Default~iphone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\windows\SplashScreen.scale-100.png">
+      <PackagePath>www\res\screen\windows\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\windows\SplashScreenPhone.scale-240.png">
+      <PackagePath>www\res\screen\windows\SplashScreenPhone.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\js\angular.min.js">
+      <PackagePath>www\js\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\js\app.js">
+      <PackagePath>www\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\js\materialize.js">
+      <PackagePath>www\js\materialize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\helper.js">
+      <PackagePath>www\spec\helper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\index.js">
+      <PackagePath>www\spec\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine-html.js">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine-html.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.js">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\css\materialize.css">
+      <PackagePath>www\css\materialize.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\lib\jasmine-1.2.0\jasmine.css">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\jasmine.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\img\screenshot %281%29.jpeg">
+      <PackagePath>www\img\screenshot %281%29.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\img\screenshot %282%29.jpeg">
+      <PackagePath>www\img\screenshot %282%29.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec.html">
+      <PackagePath>www\spec.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\res\screen\wp8\screen-portrait.jpg">
+      <PackagePath>www\res\screen\wp8\screen-portrait.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\www\spec\lib\jasmine-1.2.0\MIT.LICENSE">
+      <PackagePath>www\spec\lib\jasmine-1.2.0\MIT.LICENSE</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\knoonrx\source\repos\AppToledo\AppToledo\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
